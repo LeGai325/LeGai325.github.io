@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Le Gai|Tsinghua University"
+title: "Le Gai Tsinghua University"
+excerpt: demo
 author_profile: true
 redirect_from: 
   - /about/
