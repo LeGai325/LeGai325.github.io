@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Le Gai's Personal Homepage"
+title                    : "Le Gai"
 title_separator          : "-"
-name                     : "测试1"
+name                     : "Le Gai"
 description              : "测试2"
 url                      : https://xdugaile.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
