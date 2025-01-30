@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Le Gai, currently studying School of Cyber Engineering, **[Xidian University](https://www.xidian.edu.cn/)**, majoring in cyber engineering, as an undergraduate. During my undergraduate studies, I was advised by Lecturer **[Pengbin Feng](https://faculty.xidian.edu.cn/FPB/zh_CN/index/409846/list/index.htm)** and worked under the leadership of **Prof. [Jianfeng Ma](https://faculty.xidian.edu.cn/MJF2/zh_CN/index.htm)**.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I will conduct my **PhD program** at the Institute for Network Sciences and Cyberspace(INSC), **[Tsinghua University](https://www.tsinghua.edu.cn/)**. I am a member of the [Network Architecture and Measurement Group]{}, advised by **Assistant Research Professor [Lin He](https://helinhl.github.io/)**, and under the leadership of  **Prof. [Ying Liu.](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**
 
 A data-driven personal website
 ======
