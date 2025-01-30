@@ -22,11 +22,11 @@ repository               : "xdugaile/xdugaile.github.io"
 author:
   # Biographic information
   avatar           : "gaile1.png"
-  name             : "Your Sidebar Name"
+  name             : "Le Gai(盖乐)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   uri              : # URL
   email            : "none@example.org" 
 
