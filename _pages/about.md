@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Le Gai, currently studying School of Cyber Engineering, **[Xidian University](https://www.xidian.edu.cn/)**, majoring in Network Engineering, as an undergraduate. During my undergraduate studies, I was advised by Lecturer **[Pengbin Feng](https://faculty.xidian.edu.cn/FPB/zh_CN/index/409846/list/index.htm)** and worked under the leadership of **Prof. [Jianfeng Ma](https://faculty.xidian.edu.cn/MJF2/zh_CN/index.htm)**.
 
-I will conduct my **Ph.D program** at the Institute for Network Sciences and Cyberspace(INSC), **[Tsinghua University](https://www.tsinghua.edu.cn/)**. I am a member of the [Network Architecture and Measurement Group]{}, advised by **Assistant Research Professor [Lin He](https://helinhl.github.io/)**, and under the leadership of  **Prof. [Ying Liu.](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**
+I will conduct my **Ph.D. program** at the Institute for Network Sciences and Cyberspace(INSC), **[Tsinghua University](https://www.tsinghua.edu.cn/)**. I am a member of the [Network Architecture and Measurement Group]{}, advised by **Assistant Research Professor [Lin He](https://helinhl.github.io/)**, and under the leadership of  **Prof. [Ying Liu.](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**
 
 # Research Interests
 
@@ -29,20 +29,19 @@ My recent work focuses on the following research topics：
 
 
 
-
 # Publications
 
-#### **Journals**: 
+## **Journals**: 
 
 [1]Pengbin Feng, **Le Gai**, Li Yang, Qin Wang, Teng Li, Ning Xi, Jianfeng Ma. 
 [DawnGNN: Documentation augmented windows malware detection using graph neural network.](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000890)
 **Computers & Security**, 2024: 103788.
 
-### **Conferences**: 
+## **Conferences**: 
 
 [1]Ning Zhang, **Le Gai**, Pengbin Feng.
 Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V Processing Core.
-**ChinaSoft 2024**(Oral),  2024.
+**ChinaSoft 2024 **(Oral),  2024.
 
 ## **PrePrint**: 
 
@@ -60,11 +59,11 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 # Projects
 
-#### **Open-Source Projects**: 
+## **Open-Source Projects**: 
 
 
 
-#### **Research Projects**: 
+## **Research Projects**: 
 
 **A Safe and Efficient Speech Recognition System for Vehicle Machines Based on Federated Learning (National Innovation Project):** The FedAsr project introduces a secure speech recognition framework for the Internet of Vehicles using federated learning, combining deep neural  networks with CTC-CNN acoustic models and Markov language decoders. It  employs lightweight homomorphic encryption for privacy, reducing  overhead. FedAsr enhances accuracy by 10%, cuts latency by 15.8%, and  supports decentralized training, improving efficiency and security.
 
