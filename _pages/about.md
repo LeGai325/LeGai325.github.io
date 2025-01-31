@@ -71,7 +71,7 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 # Honors & Awards
 
-- 2024, **Cyber Security Academy Student Innovation Funding Program, Office of the Central Cyberspace Affairs Commission.**
+- 2024, **Cyber Security Academy Student Innovation Funding Program, Office of the Central Cyberspace Affairs Commission.**(Only 2 undergraduate students)
 - 2024, **Model Outstanding Student**, Xidian University.
 - 2024, **National Scholarship**, Ministry of Education in China.
 - 2024, The Gratitude Scholarship for Modern Chinese Scientists, Southwest Jiaotong University and Singapore Kenyon Pte Ltd. (1/12 schoolwide)
