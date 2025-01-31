@@ -45,7 +45,7 @@ My recent work focuses on the following research topics：
 
 [1]Ning Zhang, **Le Gai**, Pengbin Feng.
 Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V Processing Core.
-**ChinaSoft 2024 **(Oral),  2024.
+**ChinaSoft 2024**(Oral),  2024.
 
 ## **PrePrint**: 
 
