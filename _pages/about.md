@@ -33,7 +33,7 @@ My recent work focuses on the following research topics：
 ## **Journals**: 
 
 [1]Pengbin Feng, **Le Gai**, Li Yang, Qin Wang, Teng Li, Ning Xi, Jianfeng Ma. 
-[DawnGNN: Documentation augmented windows malware detection using graph neural network.](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000890)
+[DawnGNN: Documentation augmented Windows malware detection using graph neural network.](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000890)
 **Computers & Security**, 2024: 103788.
 
 ## **Conferences**: 
@@ -48,9 +48,9 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 ## **Patents**: 
 
-[3]Pengbin Feng, **Le Gai**, Ning Xi, et al. Semantic enhanced malware detection method for industrial Internet. Chinese invention patents, 2023.
+[3]Pengbin Feng, **Le Gai**, Ning Xi, et al. Semantically enhanced malware detection method for the industrial Internet. Chinese invention patents, 2023.
 
-[2]PengbinFeng, Xuan Lv, **Le Gai**, et al. APK obfuscation mechanism detection method based on graph attention network and NLP word embedding model.  Chinese invention patents, 2023.
+[2]PengbinFeng, Xuan Lv, **Le Gai**, et al. The APK obfuscation mechanism detection method is based on a graph attention network and an NLP word embedding model. Chinese invention patents, 2023.
 
 [1]**Le Gai**, Yanbo Sun ,Junwei  Zhang. Safe and efficient vehicle-mounted speech recognition method and system based on federated learning. Chinese invention patents, 2023.
 
