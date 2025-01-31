@@ -20,12 +20,9 @@ My recent work focuses on the following research topics：
 - **Network Space Mapping and Internet Architecture**
 
 # Education and Intern
-
-2021.09-2025.06	B.E, [School of Cyber Engineering](https://ce.xidian.edu.cn/), **[Xidian University](https://www.xidian.edu.cn/).**
-
-2023.06-2023.08	Research Intern, Network Security Group, NSFOCUS Technologies Group Co., Ltd, Xi'an R & D Center.
-
-2025.09-2030.06	Ph.D, [Institute for Network Sciences and Cyberspace(INSC)](https://www.insc.tsinghua.edu.cn/), **[Tsinghua University](https://www.tsinghua.edu.cn/)**.
+- 2021.09-2025.06	B.E, [School of Cyber Engineering](https://ce.xidian.edu.cn/), **[Xidian University](https://www.xidian.edu.cn/).**
+- 2023.06-2023.08	Research Intern, Network Security Group, NSFOCUS Technologies Group Co., Ltd, Xi'an R & D Center.
+- 2025.09-2030.06	Ph.D, [Institute for Network Sciences and Cyberspace(INSC)](https://www.insc.tsinghua.edu.cn/), **[Tsinghua University](https://www.tsinghua.edu.cn/)**.
 
 # News
 
