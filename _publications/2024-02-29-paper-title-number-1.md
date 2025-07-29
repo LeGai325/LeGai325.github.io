@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-29-paper-title-number-1
 date: 2024-02-29
 venue: 'Computers & Security'
-paperurl: 'http://xdugaile.github.io/files/paper1.pdf'
+paperurl: 'http://LeGai325.github.io/files/paper1.pdf'
 citation: 'Pengbin Feng, Le Gai, Li Yang, Qin Wang, Teng Li, Ning Xi, Jianfeng Ma. &quot; DawnGNN: Documentation augmented Windows malware detection using graph neural network.&quot; <i>Computers & Security</i>. 2024: 103788.'
 ---
 
