@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Le Gai, currently studying School of Cyber Engineering, **[Xidian University](https://www.xidian.edu.cn/)**, majoring in Network Engineering, as an undergraduate. During my undergraduate studies, I was advised by Lecturer **[Pengbin Feng](https://faculty.xidian.edu.cn/FPB/zh_CN/index/409846/list/index.htm)** and worked under the leadership of **Prof. [Jianfeng Ma](https://faculty.xidian.edu.cn/MJF2/zh_CN/index.htm)**.
+I am Le Gai, a graduate of the School of Cyber Engineering, **[Xidian University](https://www.xidian.edu.cn/)**, where I majored in cyber engineering. During my undergraduate studies, I was advised by Lecturer **[Pengbin Feng](https://faculty.xidian.edu.cn/FPB/zh_CN/index/409846/list/index.htm)** and worked under the leadership of **Prof. [Jianfeng Ma](https://faculty.xidian.edu.cn/MJF2/zh_CN/index.htm)**.
 
-I will conduct my **Ph.D. program** at the Institute for Network Sciences and Cyberspace(INSC), **[Tsinghua University](https://www.tsinghua.edu.cn/)**. I am a member of the [Network Architecture and Measurement Group]{}, advised by **Assistant Research Professor [Lin He](https://helinhl.github.io/)**, and under the leadership of  **Prof. [Ying Liu.](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**
+I am now pursuing my **Ph.D. program** at the Institute for Network Sciences and Cyberspace(INSC), **[Tsinghua University](https://www.tsinghua.edu.cn/)**. I am a member of the [Network Architecture and Measurement Group]{}, advised by **Assistant Research Professor [Lin He](https://helinhl.github.io/)**, and under the leadership of  **Prof. [Ying Liu.](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**
 
 # Research Interests
 
 My recent work focuses on the following research topics：
-
-- **Key Technologies in Network Threat Intelligence**
+隧道协议及源地址验证
+- **Tunnel Protocol and IP Source Address Validation**
 - **Feature Engineering-based Ransomware Detection Methods**
 - **Network Space Mapping and Internet Architecture**
 
