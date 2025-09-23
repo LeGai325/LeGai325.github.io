@@ -21,14 +21,14 @@ repository               : "LeGai325/LeGai325.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gaile.png"
+  avatar           : "gaile.jpg"
   name             : "Le Gai(盖乐)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gl25@mails.tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
