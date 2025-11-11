@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Le Gai, currently studying School of Cyber Engineering, **Xidian University**, majoring in cyber engineering, as an undergraduate.
+I am Le Gai, currently studying School of Cyber Engineering, **Xidian University**, majoring in Network Engineering, as an undergraduate.
 
 I will conduct my **PhD program** at the Institute for Network Sciences and Cyberspace(INSC), **Tsinghua University**. I am a member of the Network Architecture and Measurement Group, advised by **Assistant Research Professor Lin He**, and under the leadership of  **Prof. Ying Liu.** 
 
