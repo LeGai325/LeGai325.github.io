@@ -71,11 +71,12 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 # Honors & Awards
 
+- 2025, QIANXIN Scholarship, QIANXIN Technology Group Inc. 
 - 2024, **Cyber Security Academy Student Innovation Funding Program, Office of the Central Cyberspace Affairs Commission.**(Only 2 undergraduate students)
 - 2024, **Model Outstanding Student**, Xidian University.
 - 2024, **National Scholarship**, Ministry of Education in China.
 - 2024, The Gratitude Scholarship for Modern Chinese Scientists, Southwest Jiaotong University and Singapore Kenyon Pte Ltd. (1/12 schoolwide)
-- 2024,  Spark Cup College Students Academic Science and Technology Works Competition, **Special Prize.**
+- 2024, Spark Cup College Students Academic Science and Technology Works Competition, **Special Prize.**
 - 2023, China Undergraduate Mathematical Contest in Modeling, **National First Prize.**
 - 2023, The 8th National Encryption Technology Competition, **National First Prize**.
 - 2022, 2023, National Encouragement Scholarship, Ministry of Education in China.
