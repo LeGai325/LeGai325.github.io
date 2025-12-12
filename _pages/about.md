@@ -77,7 +77,7 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 - 2025, The 3rd IPv6 Technology Application Innovation Competition, **National Second Prize.**
 - 2025, QIANXIN Scholarship, QIANXIN Technology Group Inc.
-- 2025, Outstanding Graduates, Xidian University.
+- 2025, **Outstanding Graduates**, Xidian University.
 - 2024, **Cyber Security Academy Student Innovation Funding Program, Office of the Central Cyberspace Affairs Commission.**(Only 2 undergraduate students)
 - 2024, **Model Outstanding Student**, Xidian University.
 - 2024, **National Scholarship**, Ministry of Education in China.
