@@ -38,9 +38,13 @@ My recent work focuses on the following research topics：
 
 ## **Conferences**: 
 
-[1]Ning Zhang, **Le Gai**, Pengbin Feng.
+**[INFOCOM26]** Daguo Cheng, Zedong Jia, Lin He, **Le Gai**, Ying Liu.
+Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds.
+**INFOCOM26**, Tokyo, Japan, 18 - 21 May 2026.
+
+**[ChinaSoft24]** Ning Zhang, **Le Gai**, Pengbin Feng.
 Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V Processing Core.
-**ChinaSoft 2024**(Oral),  2024.
+**ChinaSoft24**(Oral), Xi'an, China, 15-17 November 2024.
 
 ## **PrePrint**: 
 
@@ -71,12 +75,14 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 # Honors & Awards
 
-- 2025, QIANXIN Scholarship, QIANXIN Technology Group Inc. 
+- 2025, The 3rd IPv6 Technology Application Innovation Competition, **National Second Prize.**
+- 2025, QIANXIN Scholarship, QIANXIN Technology Group Inc.
+- 2025, Outstanding Graduates, Xidian University.
 - 2024, **Cyber Security Academy Student Innovation Funding Program, Office of the Central Cyberspace Affairs Commission.**(Only 2 undergraduate students)
 - 2024, **Model Outstanding Student**, Xidian University.
 - 2024, **National Scholarship**, Ministry of Education in China.
 - 2024, The Gratitude Scholarship for Modern Chinese Scientists, Southwest Jiaotong University and Singapore Kenyon Pte Ltd. (1/12 schoolwide)
 - 2024, Spark Cup College Students Academic Science and Technology Works Competition, **Special Prize.**
 - 2023, China Undergraduate Mathematical Contest in Modeling, **National First Prize.**
-- 2023, The 8th National Encryption Technology Competition, **National First Prize**.
+- 2023, The 8th National Encryption Technology Competition, **National First Prize.**
 - 2022, 2023, National Encouragement Scholarship, Ministry of Education in China.
