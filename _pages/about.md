@@ -38,7 +38,7 @@ My recent work focuses on the following research topics：
 
 ## **Conferences**: 
 
-**[INFOCOM26]** Daguo Cheng, Zedong Jia, Lin He, **Le Gai**, Ying Liu.
+**[INFOCOM26]** Daguo Cheng, Zedong Jia, Ying Liu, Lin He, **Le Gai**, et al.
 Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds.
 **INFOCOM26**, Tokyo, Japan, 18 - 21 May 2026.
 
