@@ -2,7 +2,6 @@
 title: "Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds"
 collection: publications
 category: conferences
-date: 2025-12-01
 venue: 'INFOCOM 2026'
 citation: 'Daguo Cheng, Zedong Jia, Ying Liu, Lin He, Le Gai, et al. &quot;Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds.&quot; <i>INFOCOM 2026</i>.'
 ---
