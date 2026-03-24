@@ -1,5 +1,5 @@
 ---
-title: "Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds" [cite: 26]
+title: "Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds" 
 collection: publications
 category: conferences
 date: 2025-12-01 
