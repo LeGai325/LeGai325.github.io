@@ -55,13 +55,19 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 **Conference Submissions:**
 [1] LLM-FusionCCD: A Unified LLM Framework and Difficulty-Graded Benchmark for Cross-Protocol Network Covert Channel Detection (Target: ICNP 2026)
+
 [2] SpecNet-Agent: Network-Aware Speculation Control for QoS in Agentic Generative AI Services (Submitted to IWQoS NetGenAI 2026)
+
 [3] PortSeer: Target-Aware Adaptive Internet-wide Port Scanning and its Security Applications (Submitted to NDSS 2026)
+
 [4] Woodpecker: Provenance-Guided Local Repair for Compromised Multi-Agent LLM Workflows (Submitted to NDSS 2026)
+
 [5] IPv6 Extension Headers in the Wild: Reachability, Ossification, and Firewall Evasion (Submitted to CCS 2026)
 
 **Journal Transactions:**
+
 [6] Not All That Responds is Gold: Probing and Characterizing IPv6 Fully Responsive Prefixes at Scale (Target: IEEE/ACM Transactions on Networking, ToN)
+
 [7] Peering into the Blind Spot: Measuring Source Address Validation with Internet Tunnels (Target: IEEE Transactions on Information Forensics and Security, TIFS)
 
 ## **Patents**: 
