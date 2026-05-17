@@ -15,9 +15,9 @@ I am now pursuing my **Ph.D. program** at the Institute for Network Sciences and
 
 My recent work focuses on the following research topics：
 
-- **Tunnel Protocol and IP Source Address Validation**
-- **Feature Engineering-based Ransomware Detection Methods**
-- **Network Space Mapping and Internet Architecture**
+- **Tunneling Protocols and IP Source Address Validation**
+- **AI/Agent Security and LLM Adversarial Attacks**
+- **IPv6 Address, Port, and Service Scanning and Prediction**
 
 # Education and Intern
 - 2021.09-2025.06	B.E, [School of Cyber Engineering](https://ce.xidian.edu.cn/), **[Xidian University](https://www.xidian.edu.cn/).**
