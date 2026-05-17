@@ -26,8 +26,7 @@ My recent work focuses on the following research topics：
 
 # News
 
-
-
+ - May 14, 2026 🎉 Our work TED is accepted by USENIX Security 26!
 
 # Publications
 ## **Journals**: 
