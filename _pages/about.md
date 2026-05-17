@@ -53,7 +53,7 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 ## **PrePrint**: 
 
-**Conference Submissions:**
+**Conferences:**
 [1] LLM-FusionCCD: A Unified LLM Framework and Difficulty-Graded Benchmark for Cross-Protocol Network Covert Channel Detection (Target: ICNP 2026)
 
 [2] SpecNet-Agent: Network-Aware Speculation Control for QoS in Agentic Generative AI Services (Submitted to IWQoS NetGenAI 2026)
@@ -64,7 +64,7 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 [5] IPv6 Extension Headers in the Wild: Reachability, Ossification, and Firewall Evasion (Submitted to CCS 2026)
 
-**Journal Transactions:**
+**Journals:**
 
 [6] Not All That Responds is Gold: Probing and Characterizing IPv6 Fully Responsive Prefixes at Scale (Target: IEEE/ACM Transactions on Networking, ToN)
 
