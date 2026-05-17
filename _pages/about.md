@@ -28,7 +28,8 @@ My recent work focuses on the following research topics：
 
  - May 14, 2026 🎉 Our work TED is accepted by USENIX Security 26!
  - Dec 08, 2025 🎉 Our work is accepted by INFOCOM 26!
-
+ - Dec 05, 2025 🥈 Our team won the second prize in the IPv6 Technology Application Innovation Competition.
+   
 # Publications
 ## **Journals**: 
 
@@ -42,13 +43,13 @@ My recent work focuses on the following research topics：
 TED: Abusing Tunnel Hosts and IPv6 Extension Headers for Pulsing DoS Attacks.
 **USENIX Security 26**, Baltimore, USA, 12 – 14 August 2026.
 
-**[INFOCOM26]** Daguo Cheng, Zedong Jia, Ying Liu, Lin He, **Le Gai**, et al.
+**[INFOCOM 26]** Daguo Cheng, Zedong Jia, Ying Liu, Lin He, **Le Gai**, et al.
 Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds.
-**INFOCOM26**, Tokyo, Japan, 18 - 21 May 2026.
+**INFOCOM 26**, Tokyo, Japan, 18 - 21 May 2026.
 
-**[ChinaSoft24]** Ning Zhang, **Le Gai**, Pengbin Feng.
+**[ChinaSoft 24]** Ning Zhang, **Le Gai**, Pengbin Feng.
 Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V Processing Core.
-**ChinaSoft24**(Oral), Xi'an, China, 15-17 November 2024.
+**ChinaSoft 24**(Oral), Xi'an, China, 15-17 November 2024.
 
 ## **PrePrint**: 
 
