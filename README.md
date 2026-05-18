@@ -12,6 +12,6 @@ I will conduct my **PhD program** at the Institute for Network Sciences and Cybe
 
 For more information, you may take a look at my [Homepage](https://LeGai325.github.io/).
 
-![Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeGai325)
+![Le's GitHub stats](https://github-readme-stats.shion.dev/api?username=LeGai325)
 
 
