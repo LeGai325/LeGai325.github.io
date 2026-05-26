@@ -25,7 +25,7 @@ My recent work focuses on the following research topics：
 - 2025.09-2030.06	Ph.D, [Institute for Network Sciences and Cyberspace(INSC)](https://www.insc.tsinghua.edu.cn/), **[Tsinghua University](https://www.tsinghua.edu.cn/)**.
 
 # News
-
+ - May 26, 2026 🎉 Our work SpecNet-Agent is accepted by IWQoS NetGenAI 2026!
  - May 14, 2026 🎉 Our work TED is accepted by USENIX Security 26!
  - Dec 08, 2025 🎉 Our work is accepted by INFOCOM 26!
  - Dec 05, 2025 🥈 Our team won the second prize in the IPv6 Technology Application Innovation Competition.
@@ -38,6 +38,10 @@ My recent work focuses on the following research topics：
 **Computers & Security**, 2024: 103788.
 
 ## **Conferences**: 
+
+**[IWQoS 26]** **Le Gai**, Lin He, Chentian Wei, Zedong Jia, Daguo Cheng, Ying Liu. 
+SpecNet-Agent: Network-Aware Speculation Control for QoS in Agentic Generative AI Services. 
+**IWQoS 26**, Istanbul, Türkiye, 29 June – 2 July 2026.
 
 **[USENIX Security 26]** **Le Gai**, Zedong Jia, Lin He, Daguo Cheng, Chentian Wei, Ying Liu.
 TED: Abusing Tunnel Hosts and IPv6 Extension Headers for Pulsing DoS Attacks.
@@ -52,6 +56,8 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 **ChinaSoft 24**(Oral), Xi'an, China, 15-17 November 2024.
 
 ## **Patents**: 
+
+[4] 
 
 [3]Pengbin Feng, **Le Gai**, Ning Xi, et al. Semantically enhanced malware detection method for the industrial Internet. Chinese invention patents, 2023.
 
