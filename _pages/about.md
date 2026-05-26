@@ -57,7 +57,7 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 ## **Patents**: 
 
-[4] 
+[4]He Lin, Cheng Daguo, Liu Ying, Jia Zedong, **Le Gai**, et al. An Adaptive Proactive Service Discovery Method Based on Limited Seeds. Chinese invention patents, 2026.
 
 [3]Pengbin Feng, **Le Gai**, Ning Xi, et al. Semantically enhanced malware detection method for the industrial Internet. Chinese invention patents, 2023.
 
