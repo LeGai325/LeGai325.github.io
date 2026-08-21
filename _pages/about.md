@@ -15,15 +15,15 @@ I am now pursuing my **Ph.D. program** at the Institute for Network Sciences and
 
 My recent work focuses on the following research topics：
 
-- **Tunneling Protocols and IP Source Address Validation**
+- **Tunneling Protocols Security and IP Source Address Validation**
 - **AI/Agent Security and LLM Adversarial Attacks**
-- **IPv6 Address, Port, and Service Scanning and Prediction**
+- **Multi-Agent System Security Benchmarks and Network Scheduling**
 
 # Education and Intern
 - 2021.09-2025.06	B.E, [School of Cyber Engineering](https://ce.xidian.edu.cn/), **[Xidian University](https://www.xidian.edu.cn/).**
 - 2023.06-2023.08	Research Intern, Network Security Group, NSFOCUS Technologies Group Co., Ltd, Xi'an R & D Center.
 - 2025.09-2030.06	Ph.D, [Institute for Network Sciences and Cyberspace(INSC)](https://www.insc.tsinghua.edu.cn/), **[Tsinghua University](https://www.tsinghua.edu.cn/)**.
-- 2026.06-2026.08	Research Intern, Big Security, Ant Group, Beijing.
+- 2026.06-2026.08	Research Intern, Security and Risk Management, Ant Group, Beijing.
 
 
 # News
