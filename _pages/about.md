@@ -84,6 +84,8 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 
 # Honors & Awards
 
+- 2026, Comprehensive **First-Class Scholarship**, Lenovo Scholarship，Tsinghua University.
+- 2026, IETF 126 Qingcai Program, China Internet Association.
 - 2025, The 3rd IPv6 Technology Application Innovation Competition, **National Second Prize.**
 - 2025, QIANXIN Scholarship, QIANXIN Technology Group Inc.
 - 2025, **Outstanding Graduates**, Xidian University.
