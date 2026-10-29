@@ -17,7 +17,7 @@ resources:
   - label: "Conference report"
     url: "https://www.cnnic.cn/n4/2026/0930/c326-11686.html"
 photos:
-  - src: "/images/talks/cnirc-2026-title-slide.png"
+  - src: "/images/talks/CNIRC26.JPG"
     alt: "Title slide of the CNIRC 2026 presentation"
     caption: "Presentation title slide · CNIRC 2026."
 ---
