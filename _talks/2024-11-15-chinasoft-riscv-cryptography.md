@@ -19,7 +19,7 @@ resources:
 photos:
   - src: "/images/talks/chinasoft-2024-forum-banner.jpg"
     alt: "CCF ChinaSoft 2024 RISC-V forum banner"
-    caption: "Conference material · RISC-V forum banner."
+    caption: "Presentation · Xi'an · ChinaSoft 2024."
   - src: "/images/talks/chinasoft-2024-speaker-profile.png"
     alt: "Conference speaker profile and abstract for the RISC-V cryptography talk"
     caption: "Conference material · Speaker profile and talk abstract."
