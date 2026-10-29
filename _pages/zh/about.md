@@ -10,7 +10,7 @@ excerpt: "盖乐，清华大学网络科学与网络空间研究院博士生，�
 
 我是**盖乐（Le Gai）**，目前在**[清华大学网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/)**攻读博士学位，是[网络体系结构与测量研究组](https://thuname.github.io/lab-website/)成员，在[刘莹](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)老师和[何林](https://helinhl.github.io/)老师指导下开展研究。
 
-本科毕业于**[西安电子科技大学网络与信息安全学院](https://ce.xidian.edu.cn/)**，主修网络工程。本科期间在[马建峰](https://faculty.xidian.edu.cn/MJF2/zh_CN/index.htm)老师团队开展研究，导师为[冯鹏斌](https://faculty.xidian.edu.cn/FPB/zh_CN/index/409846/list/index.htm)副教授。
+本科毕业于**[西安电子科技大学网络与信息安全学院](https://ce.xidian.edu.cn/)**，网络工程专业。本科期间在[马建峰](https://faculty.xidian.edu.cn/MJF2/zh_CN/index.htm)老师团队开展研究，导师为[冯鹏斌](https://faculty.xidian.edu.cn/FPB/zh_CN/index/409846/list/index.htm)副教授。
 
 ## 研究方向
 
@@ -27,10 +27,10 @@ excerpt: "盖乐，清华大学网络科学与网络空间研究院博士生，�
 
 ## 最新动态
 
-- **2026.05.26**：SpecNet-Agent 被 IWQoS NetGenAI 2026 Workshop 接收。
-- **2026.05.14**：TED 被 USENIX Security 2026 接收。
-- **2025.12.08**：服务发现工作被 IEEE INFOCOM 2026 接收。
-- **2025.12.05**：团队获得第三届 IPv6 技术应用创新大赛全国二等奖。
+- 2026.05.26 🎉 我们的工作 SpecNet-Agent 被 IWQoS NetGenAI 2026 Workshop 接收！
+- 2025.12.08 🎉 我们的服务发现工作被 IEEE INFOCOM 2026 接收！
+- 2025.12.05 🎉 我们的团队获得第三届 IPv6 技术应用创新大赛全国二等奖！
+
 
 ## 论文发表
 
@@ -84,9 +84,11 @@ Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V 
 - **2026**：清华大学综合优秀一等奖学金、联想奖学金。
 - **2026**：IETF 126 菁才计划。
 - **2025**：第三届 IPv6 技术应用创新大赛，全国二等奖。
-- **2025**：奇安信奖学金；西安电子科技大学优秀毕业生。
+- **2025**：奇安信奖学金。
+- **2025**：西安电子科技大学优秀毕业生。
 - **2024**：中央网信办网络安全学院学生创新资助计划，本科生入选。
-- **2024**：西安电子科技大学三好学生标兵；国家奖学金。
+- **2024**：西安电子科技大学三好学生标兵。
+- **2024**：国家奖学金。
 - **2024**：感恩中国近现代科学家奖学金。
 - **2024**：星火杯大学生学术科技作品竞赛，特等奖。
 - **2023**：全国大学生数学建模竞赛，全国一等奖。
