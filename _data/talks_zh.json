@@ -1,0 +1,42 @@
+{
+  "cnirc-ietf-experience": {
+    "title": "我的 IETF126 经历：两份草案、两场汇报，以及仍在继续的研究",
+    "excerpt": "分享在 INTAREA 与 V6OPS 工作组提交草案、进行汇报和回应反馈的经历，以及如何将会议讨论转化为后续研究。",
+    "date": "2026 年 9 月 29 日",
+    "location": "中国 · 北京",
+    "type": "参会经历分享",
+    "caption": "报告封面 · 2026 中国互联网基础资源大会。"
+  },
+  "usenix-security-ted": {
+    "title": "TED：IP 隧道与 IPv6 扩展头引发的脉冲式拒绝服务攻击",
+    "excerpt": "介绍 IP 隧道与 IPv6 扩展头处理行为带来的安全风险，结合互联网范围测量，分析低速流量聚合成高强度脉冲的机制及缓解措施。",
+    "date": "2026 年 8 月 12–14 日",
+    "location": "美国 · 巴尔的摩",
+    "type": "会议论文报告",
+    "caption": ""
+  },
+  "ietf126-intarea-v6ops": {
+    "title": "IETF 126：IP 隧道节点安全与 IPv6 扩展头测量",
+    "excerpt": "在 INTAREA 与 V6OPS 工作组分别汇报两份个人 Internet-Draft，讨论隧道节点安全要求，以及 IPv6 扩展头报文的可达性和过滤行为。",
+    "date": "2026 年 7 月 22 日、24 日",
+    "location": "奥地利 · 维也纳",
+    "type": "两场工作组报告",
+    "caption": "V6OPS 现场报告 · 2026 年 7 月 24 日。"
+  },
+  "iwqos-specnet-agent": {
+    "title": "SpecNet-Agent：面向智能体服务的网络感知推测控制",
+    "excerpt": "结合工作流依赖和网络拥塞反馈，在源端调节推测执行，改善智能体服务的尾延迟并减少无效通信。",
+    "date": "2026 年 6 月 29 日",
+    "location": "土耳其 · 伊斯坦布尔",
+    "type": "NetGenAI Workshop 论文报告",
+    "caption": ""
+  },
+  "chinasoft-riscv-cryptography": {
+    "title": "基于 RISC-V 处理核的国密算法快速运算",
+    "excerpt": "面向资源受限的物联网设备，采用软硬件协同设计与指令优化，加速 RISC-V 平台上的 SM2、SM3 和 SM4 算法。",
+    "date": "2024 年 11 月 15–17 日",
+    "location": "中国 · 西安",
+    "type": "论坛报告",
+    "caption": "会议材料 · RISC-V 论坛横幅。"
+  }
+}

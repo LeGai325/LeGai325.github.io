@@ -1,0 +1,24 @@
+{%- assign site_lang = page.lang | default: 'en' -%}
+{%- assign page_locale = page.locale | default: site.locale -%}
+{%- assign lang_ui = site.data.i18n[site_lang] | default: site.data.i18n.en -%}
+{%- assign en_version = nil -%}
+{%- assign zh_version = nil -%}
+{%- if page.translation_key -%}
+  {%- assign language_pages = site.pages | concat: site.documents | where: 'translation_key', page.translation_key -%}
+  {%- assign en_version = language_pages | where: 'lang', 'en' | first -%}
+  {%- assign zh_version = language_pages | where: 'lang', 'zh' | first -%}
+{%- endif -%}
+{%- assign en_destination = en_version.url | default: '/' -%}
+{%- assign zh_destination = zh_version.url | default: '/zh/' -%}
+{%- unless en_version -%}
+  {%- if site_lang == 'en' -%}{%- assign en_destination = page.url -%}{%- endif -%}
+{%- endunless -%}
+{%- unless zh_version -%}
+  {%- if site_lang == 'zh' -%}
+    {%- assign zh_destination = page.url -%}
+  {%- elsif page.collection == 'talks' -%}
+    {%- assign zh_destination = '/zh/talks/' -%}
+  {%- elsif page.collection == 'publications' -%}
+    {%- assign zh_destination = '/zh/publications/' -%}
+  {%- endif -%}
+{%- endunless -%}

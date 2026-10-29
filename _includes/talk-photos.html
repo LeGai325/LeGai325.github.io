@@ -1,0 +1,11 @@
+{% if page.photos.size > 0 %}
+<section class="talk-gallery" aria-label="Event images">
+  <h2>Photos and materials</h2>
+  {% for photo in page.photos %}
+  <figure>
+    <a href="{{ photo.src | relative_url }}"><img src="{{ photo.src | relative_url }}" alt="{{ photo.alt | escape }}" loading="lazy" decoding="async"></a>
+    <figcaption>{{ photo.caption | escape }}</figcaption>
+  </figure>
+  {% endfor %}
+</section>
+{% endif %}

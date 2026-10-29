@@ -1,0 +1,5 @@
+{% include i18n-context.html %}
+<nav class="language-switcher" aria-label="{{ lang_ui.switch_label | escape }}">
+  <a href="{{ en_destination | relative_url }}" lang="en" hreflang="en"{% if site_lang == 'en' %} class="is-active" aria-current="true"{% endif %} aria-label="English" title="English">EN</a>
+  <a href="{{ zh_destination | relative_url }}" lang="zh-Hans" hreflang="zh-Hans"{% if site_lang == 'zh' %} class="is-active" aria-current="true"{% endif %} aria-label="{% if zh_version or site_lang == 'zh' %}简体中文{% else %}打开中文栏目（当前详情暂无中文译文）{% endif %}" title="{% if zh_version or site_lang == 'zh' %}简体中文{% else %}打开中文栏目（当前详情暂无中文译文）{% endif %}">中文</a>
+</nav>

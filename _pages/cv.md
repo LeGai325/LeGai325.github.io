@@ -1,4 +1,7 @@
 ---
+lang: en
+locale: en-US
+translation_key: cv
 layout: archive
 title: "CV"
 permalink: /cv/

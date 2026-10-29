@@ -1,4 +1,7 @@
 ---
+lang: en
+locale: en-US
+translation_key: home
 permalink: /
 title: "About me"
 excerpt: "demo"

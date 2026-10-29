@@ -1,0 +1,5 @@
+{% if page.resources.size > 0 %}
+<div class="talk-links">
+{% for resource in page.resources %}<a href="{{ resource.url | escape }}">{{ resource.label | escape }}</a>{% endfor %}
+</div>
+{% endif %}

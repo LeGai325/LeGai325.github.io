@@ -1,0 +1,6 @@
+{
+  "DawnGNN: Documentation augmented Windows malware detection using graph neural network": "DawnGNN 将 API 调用序列组织为图，利用官方 API 文档中的语义信息和图神经网络进行 Windows 恶意软件检测。",
+  "Divide, Predict, Conquer: Adaptive Internet-wide Service Discovery with Limited Seeds": "SPADE 通过多层自适应采样获取高价值种子，结合分治预测策略提取服务部署特征，提高互联网范围服务发现的效率。",
+  "TED: Abusing Tunnel Hosts and IPv6 Extension Headers for Pulsing DoS Attacks": "TED 分析 IP 隧道与 IPv6 扩展头处理机制共同引发的脉冲式拒绝服务风险，并通过互联网范围测量研究其影响和缓解措施。",
+  "Fast Calculation of National Commercial Cryptographic Algorithm Based on RISC-V Processing Core": "在 RISC-V 平台上实现并优化国密算法，通过指令级优化以及点乘、模运算等专用处理单元加速密码运算。"
+}

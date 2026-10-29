@@ -1,0 +1,47 @@
+{
+  "en": {
+    "home": "/",
+    "switch_label": "Language",
+    "menu": "Main navigation",
+    "menu_button": "Toggle menu",
+    "fallback": "Chinese version unavailable; open the Chinese section",
+    "profile": {},
+    "follow": "Follow",
+    "updated": "Site last updated",
+    "sitemap": "Sitemap",
+    "talks_title": "Talks and presentations",
+    "talks_intro": "Selected research presentations, IETF working-group contributions, and community talks.",
+    "details": "Details & images",
+    "publications": "Publications",
+    "categories": {
+      "books": "Books",
+      "manuscripts": "Journal Articles",
+      "conferences": "Conference Papers"
+    }
+  },
+  "zh": {
+    "home": "/zh/",
+    "switch_label": "语言切换",
+    "menu": "主导航",
+    "menu_button": "展开导航菜单",
+    "fallback": "暂无对应英文译文，返回英文栏目",
+    "profile": {
+      "name": "盖乐 Le Gai",
+      "bio": "网络空间安全博士生",
+      "location": "中国 · 北京",
+      "employer": "清华大学"
+    },
+    "follow": "联系方式",
+    "updated": "最近更新",
+    "sitemap": "网站地图",
+    "talks_title": "学术报告与交流",
+    "talks_intro": "研究报告、IETF 工作组交流与学术会议分享。",
+    "details": "英文详情与图片",
+    "publications": "论文发表",
+    "categories": {
+      "books": "专著",
+      "manuscripts": "期刊论文",
+      "conferences": "会议论文"
+    }
+  }
+}

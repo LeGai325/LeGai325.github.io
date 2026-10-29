@@ -1,0 +1,26 @@
+/* Separate from the greedy menu so language selection stays visible. */
+.masthead__inner-wrap.bilingual-masthead { display:flex; align-items:center; gap:1.1rem; }
+.bilingual-masthead::after { display:none; }
+.bilingual-masthead .masthead__menu { flex:1 1 auto; min-width:0; }
+.bilingual-masthead .greedy-nav { min-width:0; }
+.language-switcher { display:inline-flex; flex:0 0 auto; align-items:center; gap:3px; padding:3px; border:1px solid #d8e0e6; border-radius:9px; background:#f5f7f9; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif; font-size:14px; line-height:1; }
+.language-switcher a { display:inline-flex; align-items:center; justify-content:center; min-width:44px; min-height:38px; padding:0 10px; border-radius:6px; color:#4b5660; text-decoration:none; white-space:nowrap; }
+.language-switcher a.is-active { background:#dfeef7; color:#135b83; font-weight:700; }
+.language-switcher a:hover { background:#e8edf1; color:#135b83; }
+.language-switcher a.is-active:hover { background:#d7e9f4; }
+.language-switcher a:focus-visible { outline:3px solid #1477b3; outline-offset:3px; }
+html[lang="zh"] body { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif; }
+html[lang="zh"] .page__content, html[lang="zh"] .archive { line-height:1.85; }
+.publication-zh { padding:1.2rem 0; border-bottom:1px solid #e7ebee; }
+.publication-zh h3 { margin:0 0 .5rem; font-size:1.1em; line-height:1.45; }
+.publication-zh p { margin:.5rem 0; }
+.publication-zh__meta { color:#656e75; font-size:.85em; }
+@media(max-width:600px) {
+  .masthead__inner-wrap.bilingual-masthead { gap:8px; padding-left:12px; padding-right:12px; }
+  .bilingual-masthead .masthead__menu-item--lg { padding-right:.5rem; }
+  .bilingual-masthead .greedy-nav a { margin-right:.6rem; margin-left:.6rem; }
+  .bilingual-masthead .greedy-nav .visible-links li:first-child a { margin-left:0; }
+  .language-switcher { font-size:13px; }
+  .language-switcher a { min-width:40px; padding:0 7px; }
+}
+@media(prefers-reduced-motion:reduce) { .language-switcher a { transition:none; } }

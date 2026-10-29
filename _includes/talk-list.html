@@ -1,0 +1,48 @@
+{% include i18n-context.html %}
+<link rel="stylesheet" href="{{ '/assets/css/talks.css' | relative_url }}">
+<div class="talks-home">
+  <p class="talks-intro">{{ lang_ui.talks_intro }}</p>
+  {% assign ordered_talks = site.talks | sort: 'date' | reverse %}
+  {% assign previous_year = '' %}
+  {% for post in ordered_talks %}
+    {% assign talk_year = post.date | date: '%Y' %}
+    {% if talk_year != previous_year %}
+      <h2 class="talks-year">{{ talk_year }}</h2>
+      {% assign previous_year = talk_year %}
+    {% endif %}
+    {% assign lead_photo = post.photos | first %}
+    {% assign translation = site.data.talks_zh[post.i18n_key] %}
+    {% assign display_title = post.short_title | default: post.title %}
+    {% assign display_excerpt = post.excerpt %}
+    {% assign display_date = post.display_date %}
+    {% assign display_location = post.location %}
+    {% assign display_type = post.type %}
+    {% assign display_caption = lead_photo.caption %}
+    {% if site_lang == 'zh' and translation %}
+      {% assign display_title = translation.title %}
+      {% assign display_excerpt = translation.excerpt %}
+      {% assign display_date = translation.date %}
+      {% assign display_location = translation.location %}
+      {% assign display_type = translation.type %}
+      {% assign display_caption = translation.caption %}
+    {% endif %}
+    <article class="talk-entry{% if lead_photo %} has-photo{% endif %}">
+      <div>
+        <p class="talk-entry__event">{{ post.event | default: post.venue | escape }}</p>
+        <h3 class="talk-entry__title"><a href="{{ post.url | relative_url }}">{{ display_title | escape }}</a></h3>
+        <p class="talk-entry__meta">{% if post.display_date %}{{ display_date | escape }}{% else %}{{ post.date | date: '%d %B %Y' }}{% endif %} · {{ display_location | escape }}<br>{{ display_type | escape }}</p>
+        <div class="talk-entry__summary">{{ display_excerpt | markdownify }}</div>
+        <div class="talk-links">
+          <a href="{{ post.url | relative_url }}">{{ lang_ui.details }}</a>
+          {% for resource in post.resources %}<a href="{{ resource.url | escape }}">{% if site_lang == 'zh' %}{{ site.data.resource_labels_zh[resource.label] | default: resource.label | escape }}{% else %}{{ resource.label | escape }}{% endif %}</a>{% endfor %}
+        </div>
+      </div>
+      {% if lead_photo %}
+      <figure class="talk-entry__figure">
+        <a href="{{ post.url | relative_url }}"><img src="{{ lead_photo.src | relative_url }}" alt="{{ lead_photo.alt | escape }}" loading="lazy" decoding="async"></a>
+        <figcaption>{{ display_caption | escape }}</figcaption>
+      </figure>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>

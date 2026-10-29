@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "论文发表"
+permalink: /zh/publications/
+lang: zh
+locale: zh-CN
+translation_key: publications
+author_profile: true
+---
+
+{% include i18n-context.html %}
+<p>论文题目与作者信息保留原文，以下提供中文研究简介。</p>
+{% for category in site.publication_category %}
+  {% assign category_key = category[0] %}
+  {% assign papers = site.publications | where: 'category', category[0] | reverse %}
+  {% if papers.size > 0 %}
+  <h2>{{ lang_ui.categories[category_key] | default: category[1].title }}</h2>
+  {% for post in papers %}
+  <article class="publication-zh">
+    <h3 lang="en"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+    <p class="publication-zh__meta">{{ post.venue | escape }}</p>
+    {% assign chinese_summary = site.data.publications_zh[post.title] %}
+    {% if chinese_summary %}<p>{{ chinese_summary | escape }}</p>{% endif %}
+    {% if post.citation %}<p class="publication-zh__meta" lang="en">{{ post.citation }}</p>{% endif %}
+    <p><a href="{{ post.url | relative_url }}">英文详情</a>{% if post.paperurl %} · <a href="{{ post.paperurl }}">论文全文</a>{% endif %}</p>
+  </article>
+  {% endfor %}
+  {% endif %}
+{% endfor %}

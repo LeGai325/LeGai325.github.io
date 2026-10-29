@@ -6,9 +6,13 @@
 
 main:
   - title: "Publications"
+    title_zh: "论文发表"
+    url_zh: /zh/publications/
     url: /publications/
 
   - title: "Talks"
+    title_zh: "学术报告"
+    url_zh: /zh/talks/
     url: /talks/    
 
   # - title: "Teaching"
@@ -21,6 +25,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
+    title_zh: "个人简历"
+    url_zh: /zh/cv/
     url: /cv/
     
   # - title: "Guide"
