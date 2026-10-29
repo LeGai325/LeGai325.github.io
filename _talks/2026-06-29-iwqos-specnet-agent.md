@@ -18,7 +18,10 @@ resources:
     url: "https://ieeexplore.ieee.org/abstract/document/11661032/"
   - label: "Workshop program"
     url: "https://iwqos2026.ieee-iwqos.org/workshops-program"
-photos: []
+photos:
+  - src: "/images/talks/IWQoS26.png"
+    alt: "IWQoS 2026 presentation"
+    caption: "Presentation · Istanbul · IWQoS 2026."
 ---
 
 {% include talk-meta.html %}
