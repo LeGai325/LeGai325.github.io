@@ -18,7 +18,10 @@ resources:
     url: "https://www.usenix.org/conference/usenixsecurity26/presentation/gai"
   - label: "Technical program"
     url: "https://www.usenix.org/conference/usenixsecurity26/technical-sessions"
-photos: []
+photos:
+  - src: "/images/talks/security26.jpg"
+    alt: "TED: Tunnel Hosts, IPv6 Extension Headers, and Pulsing DoS"
+    caption: "Baltimore · USENIX Security 2026."
 ---
 
 {% include talk-meta.html %}
