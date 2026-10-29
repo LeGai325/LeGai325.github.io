@@ -18,8 +18,8 @@ resources:
     url: "https://www.cnnic.cn/n4/2026/0930/c326-11686.html"
 photos:
   - src: "/images/talks/CNIRC26.JPG"
-    alt: "Title slide of the CNIRC 2026 presentation"
-    caption: "Presentation title slide · CNIRC 2026."
+    alt: "CNIRC 2026 presentation"
+    caption: "Presentation about my experience of IETF126 ·Beijing · CNIRC 2026."
 ---
 
 {% include talk-meta.html %}
