@@ -75,8 +75,6 @@ excerpt: "盖乐的教育经历、研究工作、实习经历、论文与学术�
 
 ## 在审稿件
 
-以下状态沿用英文简历。
-
 1. **Le Gai**, Chenxi Zhao, Ying Liu, Zhongmou Liu, et al. **CANTER: Coordinated Admission and Network Transmission by Execution Role for Timely Web Agents.** 在审，*The Web Conference (WWW) 2027*。
 2. Xiuming Liu, **Le Gai**, Zhiyuan Chang, et al. **Agent-Canary-Mas: End-to-End Evaluation of Protocol Risk in Long-Horizon Multi-Agent Systems.** 在审，*USENIX Security 2027*。[arXiv](https://arxiv.org/abs/2610.15529)
 3. Xuanfeng Yang, **Le Gai**, Jiaming Wang, Xuan Zhang. **Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation.** 在审，*ICLR 2027*。[arXiv](https://arxiv.org/abs/2610.26950)
